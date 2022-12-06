@@ -12,8 +12,6 @@ No mercado de trabalho fui designer em uma gráfica e analista de suporte em uma
 
 Desde o meu curso técnico venho tendo contato com programação, estudei algumas linguagens, mas as quais mais me identifiquei foi no desenvolvimento web, por isso me considero pronto para ingressar no cargo de desenvolvedor, tendo uma boa bagagem de programação e experiência no mercado de trabalho sendo parte de uma equipe.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavojb1&label=Profile%20views&color=0e75b6&style=flat" alt="gustavojb1" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo-barbosa-b2668023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-barbosa-b2668023a/" height="30" width="40" /></a>
