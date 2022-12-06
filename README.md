@@ -3,7 +3,7 @@
 <h3 align="left">Sou desenvolvedor front-end atualmente em formação pelo bootcamp de Desenvolvimento Web Full Stack da Labenu onde me especializei em Javascript, CSS e ReactJ, realizando projetos práticos em grupos e individualmente.
 
  
->Alguns deles são:
+Alguns deles são:
 >Dogs: projeto feito para simular uma rede social para cachorros, tem página de login e criação de usuário, conta com toda rotina de postagens e exclusão de posts e comentários. O projeto feito utilizando React.js, Javascrip, HTML e CSS, conta com React Router e CSS Module, o projeto conta com toda rotina de tratamento de erros e animações de transição de tela
 >Fake Store: projeto feito para simular uma loja online, com login, carrinho de compras, detalhes do produto e confirmação de compra. Projeto feito utilizando React.js, Javascrip, HTML e CSS, conta com React Router e CSS Module
 
