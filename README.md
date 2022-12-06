@@ -37,6 +37,6 @@ Desde o meu curso técnico venho tendo contato com programação, estudei alguma
 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavojb1&show_icons=true&locale=en&layout=compact" alt="gustavojb1" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavojb1&show_icons=true&locale=en" alt="gustavojb1" /></p>
