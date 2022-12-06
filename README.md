@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou Gustavo Barbosa</h1>
-<h3 align="center">Desenvolvedor Front End</h3>
+<h3 align="center">Desenvolvedor Front End - REACT</h3>
 <h3 align="left">Sou desenvolvedor front-end atualmente em formação pelo bootcamp de Desenvolvimento Web Full Stack da Labenu onde me especializei em Javascript, CSS e ReactJ, realizando projetos práticos em grupos e individualmente.<br />
  
 Alguns deles são:
