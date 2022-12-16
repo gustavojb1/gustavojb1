@@ -1,16 +1,7 @@
 <h1 align="center">Olá, sou Gustavo Barbosa</h1>
 <h3 align="center">Desenvolvedor Front End - REACT</h3>
-<h3 align="left">Sou desenvolvedor front-end atualmente em formação pelo bootcamp de Desenvolvimento Web Full Stack da Labenu onde me especializei em Javascript, CSS e ReactJ, realizando projetos práticos em grupos e individualmente.<br />
- 
-Alguns deles são:
->Dogs: projeto feito para simular uma rede social para cachorros, tem página de login e criação de usuário, conta com toda rotina de postagens e exclusão de posts e comentários. O projeto feito utilizando React.js, Javascrip, HTML e CSS, conta com React Router e CSS Module, o projeto conta com toda rotina de tratamento de erros e animações de transição de tela<br />
->Fake Store: projeto feito para simular uma loja online, com login, carrinho de compras, detalhes do produto e confirmação de compra. Projeto feito utilizando React.js, Javascrip, HTML e CSS, conta com React Router e CSS Module
-
-Iniciei minha jornada em programação em 2011 fazendo o técnico em informática onde tive o contato com algumas linguagens, como Java, C++, PHP, MySQL dentre outras. Venho desde então estudando programação, cursei alguns períodos de Ciências da computação na UFLA (Universidade Federal de Lavras)
-
-No mercado de trabalho fui designer em uma gráfica e analista de suporte em uma empresa que comercializava um software com funções contábeis.
-
-Desde o meu curso técnico venho tendo contato com programação, estudei algumas linguagens, mas as quais mais me identifiquei foi no desenvolvimento web, por isso me considero pronto para ingressar no cargo de desenvolvedor, tendo uma boa bagagem de programação e experiência no mercado de trabalho sendo parte de uma equipe.</h3>
+<h3 align="left">Especialista em desenvolvimento Front-end, sou formado como técnico em informática e frequentei a Universidade Federal de Lavras no curso de Ciências da Computação por alguns períodos. Atualmente estou em formação Web Full Stack, na Labenu, tendo experiência em projetos práticos individual e em grupo. Sigo aprimorando meus conhecimentos técnicos e Soft Skills através da minha resiliência e gosto pelo desenvolvimento Web
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
