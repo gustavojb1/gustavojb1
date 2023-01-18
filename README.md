@@ -1,6 +1,6 @@
 <h1 align="center">Olá, sou Gustavo Barbosa</h1>
 <h3 align="center">Desenvolvedor Front End - REACT</h3>
-<h3 align="left">Especialista em desenvolvimento Front-end, sou formado como técnico em informática e frequentei a Universidade Federal de Lavras no curso de Ciências da Computação por alguns períodos. Atualmente estou em formação Web Full Stack, na Labenu, tendo experiência em projetos práticos individual e em grupo. Sigo aprimorando meus conhecimentos técnicos e Soft Skills através da minha resiliência e gosto pelo desenvolvimento Web
+<h3 align="left">Especialista em desenvolvimento Web Full Stack, sou formado como técnico em informática e frequentei a Universidade Federal de Lavras no curso de Ciências da Computação por alguns períodos. Atualmente estou em formação Web Full Stack, na Labenu, tendo experiência em projetos práticos individual e em grupo. Sigo aprimorando meus conhecimentos técnicos e Soft Skills através da minha resiliência e gosto pelo desenvolvimento Web
 </h3>
 
 <h3 align="left">Connect with me:</h3>
