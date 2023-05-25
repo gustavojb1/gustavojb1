@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Gustavo Junqueira Barbosa! 🖐
 ### Olá! I am Gustavo Junqueira Barbosa! 
 
-<i>Sou Desenvolvedor Full-stack, lhe convido à visualizar um pouco dos meus projetos</i>
-<i>I'm a Full-stack Developer, I invite you to view some of my projects</i>
+<p><i>Sou Desenvolvedor Full-stack, lhe convido à visualizar um pouco dos meus projetos</i></p>
+<p><i>I'm a Full-stack Developer, I invite you to view some of my projects</i></p>
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavojb1)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-barbosa-b2668023a/)
