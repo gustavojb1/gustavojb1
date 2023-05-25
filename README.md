@@ -1,11 +1,14 @@
 ### Olá! Eu sou o Gustavo Junqueira Barbosa! 🖐
+### Olá! I am Gustavo Junqueira Barbosa! 
 
 <i>Sou Desenvolvedor Full-stack, lhe convido à visualizar um pouco dos meus projetos</i>
+<i>I'm a Full-stack Developer, I invite you to view some of my projects</i>
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavojb1)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-barbosa-b2668023a/)
 
 ## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 <div style = "display: inline_block">
  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -22,6 +25,7 @@
 </div>
 
 ## Github Estatísticas
+## Github Statistics
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojb1&theme=dracula&hide_langs_below=1" />
