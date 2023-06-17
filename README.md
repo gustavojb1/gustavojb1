@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Gustavo Junqueira Barbosa! 🖐
-### Olá! I am Gustavo Junqueira Barbosa! 
+### Hello! I am Gustavo Junqueira Barbosa! 
 
 <p><i>Sou Desenvolvedor Full-stack, lhe convido à visualizar um pouco dos meus projetos</i></p>
 <p><i>I'm a Full-stack Developer, I invite you to view some of my projects</i></p>
